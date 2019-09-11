@@ -1,0 +1,154 @@
+.container{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(197, 225, 241);
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+   
+    
+}
+.container h2{
+    padding-top:15px;
+    text-align: center;
+    color: rgb(7, 97, 97);
+    font-family: cursive;
+}
+
+.container form{
+    padding-top:0px;
+    padding-bottom: 20px;
+    margin: auto;
+    
+}
+
+.form-group{
+    
+    margin: auto;
+    width: 50%;
+    background-color:  rgb(197, 225, 241); 
+    
+    padding:7px 0px;
+}
+
+.form-group input{
+    margin: 0px;
+    padding: 5px 105px;
+    width: 120px;
+    font-size: 17px;
+    
+}
+.required{
+    color: red;
+    margin: 0px;
+    padding: 0px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.form-group select{
+    padding: 10px 122px;
+    
+    
+}
+
+.btn-form{
+    padding: 10px 105px;
+    margin: auto;
+    margin-top: 15px;
+    margin-left: 165px;
+    width: 50%;
+    background-color: rgb(6, 190, 247);  
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.btn-form:hover{
+    background-color: rgb(10, 185, 185)
+}
+
+/* --------------------------
+-----------------adminlogin--------------------
+--------------------------------------- */
+.tableformat{
+    width: 90%;
+    margin: auto;
+    background-color: rgb(197, 225, 241);
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
+}
+.tableformat h2{
+    text-align: center;
+    color: rgb(9, 58, 78);
+}
+table{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 280px;
+}
+thead{
+    background-color: rgb(9, 58, 78);
+    color: rgb(220, 220, 243);
+    
+}
+tbody{
+    background-color: aliceblue;
+}
+.update{
+    text-decoration: none;
+    color: black;
+    padding: 2px 30px;
+}
+
+/* .well{
+    display: grid;
+    grid-template-columns: (8,1fr,1fr,2fr,2fr,2fr,3fr,3fr,1fr,1fr);
+    grid-gap: 10px;
+        
+} */
+
+/* 
+.date{
+    grid-column: 1/2;
+    text-align: start;
+
+}
+.mechanic{
+    grid-column: 2/3;
+    text-align: start;
+}
+.name{
+    grid-column:3/4;
+    text-align: center;
+}
+.address{
+    grid-column: 4/5;
+}
+.phone{
+    grid-column:5/6;
+}
+.licenseNumber{
+    grid-column:6/7;
+}
+.engineNumber{
+    grid-column:7/8;
+}
+.update{
+    grid-column: 8/9;
+}
+.delete{
+    grid-column: 9/10;
+} */
+/* --------------------------
+-----------------Success--------------------
+--------------------------------------- */
+.link{
+    text-decoration: none;
+    color: rgb(7, 97, 97);
+    text-align: center;
+}
